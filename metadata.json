@@ -1,0 +1,6 @@
+{
+  "name": "LocalCall",
+  "description": "Peer-to-peer offline voice calling over local WiFi Network without internet or servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
